@@ -24,6 +24,13 @@ body {
   text-transform: uppercase;
   padding-bottom: 40px;
 }
+h1 {
+  display: inline;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  margin: 10px 0 0;
+}
 a {
   color: white;
   text-decoration: none;
@@ -74,11 +81,14 @@ button {
     position: absolute;
   }
   ul {
+    list-style: circle;
     float: right;
   }
   li {
-    display: inline;
     margin: 0 10px;
+    @media screen and (min-width: $break-medium) {
+      display: inline;
+    }
   }
 }
 
@@ -133,7 +143,7 @@ button {
   display: inline-block;
 }
 
-h1, .party-date {
+.party-date {
   position: fixed;
   width: 100%;
   text-align: center;
@@ -144,14 +154,6 @@ h1, .party-date {
   z-index: 9;
   .spin {
     margin-left: 9px;
-  }
-}
-
-h1 {
-  bottom: 0;
-  display: none;
-  &.active {
-    display: block;
   }
 }
 
@@ -402,7 +404,7 @@ h1 {
 }
 
 @media screen and (max-width: $break-small) {
-  h1, .party-date {
+  .party-date {
     font-size: 30px;
   }
   .party-cta {

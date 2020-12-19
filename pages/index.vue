@@ -1,7 +1,7 @@
 <template>
 <div class="main-content">
   <div class="header">
-    <a class="logo" href="/">Acid Camp</a>
+    <h1>Acid Camp</h1>
     <ul>
       <li><a href="https://acidcamp.bandcamp.com/">Shop</a></li>
       <li><a href="https://soundcloud.com/acidcamp">Soundcloud</a></li>
