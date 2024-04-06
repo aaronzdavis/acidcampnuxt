@@ -27,14 +27,20 @@
     <div class="flex-container">
       <div class="flex-item">
         <div class="cover">
-          <a href="#" target="_blank"
+          <a
+            href="https://acidcamp.bandcamp.com/album/acid-camp-10-year-anniversary"
+            target="_blank"
             ><img loading="lazy" src="~/assets/images/acr010.jpg"
           /></a>
         </div>
         <div class="name">
           ACR010<br />
           Acid Camp: 10 Year Anniverssary<br />
-          <a class="preorder underline" href="#">Coming Soon</a>
+          <a
+            class="preorder underline"
+            href="https://acidcamp.bandcamp.com/album/acid-camp-10-year-anniversary"
+            >Buy Now</a
+          >
         </div>
       </div>
       <div class="flex-item">
