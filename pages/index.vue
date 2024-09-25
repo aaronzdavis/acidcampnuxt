@@ -4,7 +4,7 @@
       <h1>Acid Camp</h1>
       <ul>
         <li>
-          <a target="_blank" href="https://shop.acid.camp/">Merch</a>
+          <a target="_blank" href="https://shop.acid.camp/">Merch & Shirts</a>
         </li>
         <li>
           <a target="_blank" href="https://acidcamp.bandcamp.com/">Bandcamp</a>
@@ -251,13 +251,38 @@
     <div class="flex-container parties-archive">
       <div class="flex-item">
         <div class="cover">
+          <img loading="lazy" src="~assets/images/ac-36.jpg" />
+        </div>
+        <div class="name">
+          Oct 26 2024<br />
+          Aaron Davis, Abby Echiverri, agraybé, angekaut, Cha Cha, Clay Wilson,
+          Father Dukes, Jake Muir, Keenar, Max Ellington, Ms. Ed, NAYGOD, One
+          Child Policy, Sevyn, Tovar<br />
+          <a
+            class="preorder underline"
+            href="https://partiful.com/e/kEBfHxHL2PxtuOq5WwO7"
+            target="_blank"
+            >TICKETS</a
+          >
+        </div>
+      </div>
+      <div class="flex-item">
+        <div class="cover">
           <img loading="lazy" src="~assets/images/ac-34.jpg" />
         </div>
         <div class="name">
-          AC 34<br />
           April 13 2024<br />
           Lauren Flax, Naygod, Deep Dark Blue, Ms. Ed & Moka<br />
-          <a href="https://ra.co/events/1875872" target="_blank">TICKETS</a>
+        </div>
+      </div>
+      <div class="flex-item">
+        <div class="cover">
+          <img loading="lazy" src="~assets/images/ac-35.jpg" />
+        </div>
+        <div class="name">
+          April 12 2024<br />
+          Lauren Flax, Posthuman, Aaron Davis, Ms. Ed, Othrwrld, Jason Burns,
+          Peter Sheppard, Phorum, Trustfall<br />
         </div>
       </div>
       <div class="flex-item">
@@ -265,7 +290,6 @@
           <img loading="lazy" src="~assets/images/ac-33.jpg" />
         </div>
         <div class="name">
-          AC 33<br />
           Febuary 17 2024<br />
           Jimmy B, undercurrent, Akumen & Andy Oro, Ms. Ed & Aaron Davis, Three
           Weavers
@@ -276,7 +300,6 @@
           <img loading="lazy" src="~assets/images/ac-32.jpg" />
         </div>
         <div class="name">
-          AC 32<br />
           November 18 2023<br />
           Colored Craig, agraybé & Cha Cha, Max Ellington, Ms. Ed, Ray.Only,
           Aaron Davis
@@ -287,7 +310,6 @@
           <img loading="lazy" src="~assets/images/ac-31.jpg" />
         </div>
         <div class="name">
-          AC 31<br />
           Octover 22 2023
         </div>
       </div>
@@ -296,7 +318,6 @@
           <img loading="lazy" src="~assets/images/ac-30.png" />
         </div>
         <div class="name">
-          AC 30<br />
           December 6 2019<br />
           Agonis, Diskonnected, Shingo Suwa, Ms. Ed, Aaron Davis
         </div>
@@ -306,7 +327,6 @@
           <img loading="lazy" src="~assets/images/ac-29.jpg" />
         </div>
         <div class="name">
-          AC 29<br />
           July 4 2019<br />
           Urulu, Jen Ferrer, Cooper Saver, Masha, Mario Cotto, Pheel Cho, Jimmy
           Maheras, TK, Jessie Calistri
@@ -317,7 +337,6 @@
           <img loading="lazy" src="~assets/images/ac-28.jpg" />
         </div>
         <div class="name">
-          AC 28<br />
           May 11 2019<br />
           Surround, Studio KáNDé, Acid Camp Allstars
         </div>
@@ -327,7 +346,6 @@
           <img loading="lazy" src="~assets/images/ac-27.jpg" />
         </div>
         <div class="name">
-          AC 27<br />
           April 13 2019<br />
           John Tejada, Natan H, Damon Eliza Palermo, Ms. Ed, Mesmé, Moka, Ed
           Vertov
@@ -338,7 +356,6 @@
           <img loading="lazy" src="~assets/images/ac-26.jpg" />
         </div>
         <div class="name">
-          AC 26<br />
           June 17 2018<br />
           Bill Brewster, Jeniluv, Aaron Davis, Alex HO
         </div>
@@ -348,7 +365,6 @@
           <img loading="lazy" src="~assets/images/ac-25.jpg" />
         </div>
         <div class="name">
-          AC 25<br />
           May 20 2018<br />
           Physical Therapy, Michael Magnan, Stacy Christine B2B Mike ETC.
         </div>
@@ -358,7 +374,6 @@
           <img loading="lazy" src="~assets/images/ac-24.jpg" />
         </div>
         <div class="name">
-          AC 24<br />
           March 11 2018<br />
           Massimiliano Pagliara, Christopher Rau, Live For Each Moon
         </div>
@@ -368,7 +383,6 @@
           <img loading="lazy" src="~assets/images/ac-23.jpg" />
         </div>
         <div class="name">
-          AC 23<br />
           Feb 3 2018<br />
           Patrick Russell, BMG, Jasen Loveland
         </div>
@@ -378,7 +392,6 @@
           <img loading="lazy" src="~assets/images/ac-xxii.jpg" />
         </div>
         <div class="name">
-          AC 22<br />
           July 1 2017<br />
           Nick Höppner, Nark, Heidi Lawden, Dar Embarks, Aaron Davis
         </div>
@@ -388,7 +401,6 @@
           <img loading="lazy" src="~assets/images/ac-xxi_sq.jpg" />
         </div>
         <div class="name">
-          AC 21<br />
           April 9 2017<br />
           Tin Man, Natan H, Simic
         </div>
@@ -398,7 +410,6 @@
           <img loading="lazy" src="~assets/images/ac-xx.jpg" />
         </div>
         <div class="name">
-          AC 20<br />
           Feb 25 2017<br />
           Dr. Rubinstein, Karl Meier, Perlin Noise
         </div>
@@ -408,7 +419,6 @@
           <img loading="lazy" src="~assets/images/ac-xix_sq.jpg" />
         </div>
         <div class="name">
-          AC 19<br />
           Feb 9 + 11 2017<br />
           Ateq, DJ Dustin, Edward, Kettenkarussell, Konstantin, Leafar Legov,
           Vril
@@ -419,7 +429,6 @@
           <img loading="lazy" src="~assets/images/ac-xviii_sq.jpg" />
         </div>
         <div class="name">
-          AC 18<br />
           Jan 28 2017<br />
           Jason Kendig, Chrissy, CM-4, Aaron Davis b2b Mike Gushansky
         </div>
@@ -429,7 +438,6 @@
           <img loading="lazy" src="~assets/images/ac-xvii_sq.jpg" />
         </div>
         <div class="name">
-          AC 17<br />
           Jan 13 2017<br />
           Mike Dehnert, Jasen Loveland, Force Placement
         </div>
@@ -439,7 +447,6 @@
           <img loading="lazy" src="~assets/images/ac-xvi.jpg" />
         </div>
         <div class="name">
-          AC 16<br />
           Nov 06 2016<br />
           Daniel Bell, John Tejada, Arian Leviste, Daniel Troberg
         </div>
@@ -449,7 +456,6 @@
           <img loading="lazy" src="~assets/images/ac-xv.jpg" />
         </div>
         <div class="name">
-          AC 15<br />
           August 14 2016<br />
           PLO Man, Cromie, P Relief
         </div>
@@ -459,7 +465,6 @@
           <img loading="lazy" src="~assets/images/ac-xiv.jpg" />
         </div>
         <div class="name">
-          AC 14<br />
           July 30 2016<br />
           Anthony Parasole, Juan Ramons, Masha
         </div>
@@ -469,7 +474,6 @@
           <img loading="lazy" src="~assets/images/ac-xiii.jpg" />
         </div>
         <div class="name">
-          AC 13<br />
           June 24 2016<br />
           Bill Converse, Natan H
         </div>
@@ -479,7 +483,6 @@
           <img loading="lazy" src="~assets/images/ac-xii.jpg" />
         </div>
         <div class="name">
-          AC 12<br />
           May 22 2016<br />
           Patrick Russell, Israel Vines
         </div>
@@ -489,7 +492,6 @@
           <img loading="lazy" src="~assets/images/ac-xi.jpg" />
         </div>
         <div class="name">
-          AC 11<br />
           May 14 2016<br />
           Palms Trax, Juju &amp; Jordash, Joey Anderson
         </div>
@@ -499,7 +501,6 @@
           <img loading="lazy" src="~assets/images/ac-x.jpg" />
         </div>
         <div class="name">
-          AC 10<br />
           March 27 2016<br />
           Konstantin
         </div>
@@ -509,7 +510,6 @@
           <img loading="lazy" src="~assets/images/ac-ix.jpg" />
         </div>
         <div class="name">
-          AC 9<br />
           March 5 2016<br />
           Nick Höppner, Aaron Clark, Simic, Mike Gushansky
         </div>
@@ -519,7 +519,6 @@
           <img loading="lazy" src="~assets/images/ac-viii.jpg" />
         </div>
         <div class="name">
-          AC 8<br />
           Feb 28 2016<br />
           Dwig, Steve Mizek, Savile, Tahl K
         </div>
@@ -529,7 +528,6 @@
           <img loading="lazy" src="~assets/images/ac-vii.jpg" />
         </div>
         <div class="name">
-          AC 7<br />
           Jan 24 2016<br />
           Mike Servito, Aurora Halal, Matt Damon
         </div>
@@ -539,7 +537,6 @@
           <img loading="lazy" src="~assets/images/ac-vi.jpg" />
         </div>
         <div class="name">
-          AC 6<br />
           Dec 20 2015<br />
           Tin Man, John Tejada
         </div>
@@ -549,7 +546,6 @@
           <img loading="lazy" src="~assets/images/ac-v.jpg" />
         </div>
         <div class="name">
-          AC 5<br />
           October 25 2015<br />
           Roche, Todd Sines, Scallywag, Chris Bowen, Alex Armani
         </div>
@@ -559,7 +555,6 @@
           <img loading="lazy" src="~assets/images/ac-iv.jpg" />
         </div>
         <div class="name">
-          AC 4<br />
           Aug 23 2015<br />
           Honey Soundsystem, Far Away DJs
         </div>
@@ -569,7 +564,6 @@
           <img loading="lazy" src="~assets/images/ac-iii.jpg" />
         </div>
         <div class="name">
-          AC 3<br />
           July 12 2015<br />
           Olin, Studio Casual, Jeniluv, Alison Swing, Techno Sam
         </div>
@@ -579,7 +573,6 @@
           <img loading="lazy" src="~assets/images/ac-ii.jpg" />
         </div>
         <div class="name">
-          AC 2<br />
           June 14 2015<br />
           Chris Cruse, Victor Rodriguez, Colored Craig, Justin Corbett, Duran
           Castro
@@ -590,7 +583,6 @@
           <img loading="lazy" src="~assets/images/ac-i.jpg" />
         </div>
         <div class="name">
-          AC 1<br />
           May 10 2015<br />
           Magic Touch, 2True, Cosmic Son, Jordan Heyser, Aschof Mal
         </div>
