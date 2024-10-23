@@ -328,7 +328,7 @@
         <div class="cover">
           <img loading="lazy" src="~assets/images/ac-31.jpg" />
         </div>
-        <div class="name">Octover 22 2023</div>
+        <div class="name">October 22 2023</div>
       </div>
       <div class="flex-item">
         <div class="cover">
