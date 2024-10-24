@@ -28,6 +28,25 @@
       <div class="flex-item">
         <div class="cover">
           <a
+            href="https://acidcamp.bandcamp.com/album/lets-start-our-own-thing"
+            target="_blank"
+            ><img loading="lazy" src="~/assets/images/acr011.jpg"
+          /></a>
+        </div>
+        <div class="name">
+          ACR011<br />
+          Dar Embarks<br />
+          Let's Start Our Own Thing<br />
+          <a
+            class="preorder underline"
+            href="https://acidcamp.bandcamp.com/album/lets-start-our-own-thing"
+            >Buy Now</a
+          >
+        </div>
+      </div>
+      <div class="flex-item">
+        <div class="cover">
+          <a
             href="https://acidcamp.bandcamp.com/album/acid-camp-10-year-anniversary"
             target="_blank"
             ><img loading="lazy" src="~/assets/images/acr010.jpg"
@@ -309,9 +328,7 @@
         <div class="cover">
           <img loading="lazy" src="~assets/images/ac-31.jpg" />
         </div>
-        <div class="name">
-          Octover 22 2023
-        </div>
+        <div class="name">October 22 2023</div>
       </div>
       <div class="flex-item">
         <div class="cover">
