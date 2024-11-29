@@ -28,6 +28,25 @@
       <div class="flex-item">
         <div class="cover">
           <a
+            href="https://acidcamp.bandcamp.com/album/prednisone"
+            target="_blank"
+            ><img loading="lazy" src="~/assets/images/acr012.jpg"
+          /></a>
+        </div>
+        <div class="name">
+          ACR012<br />
+          Endash<br />
+          Prednisone<br />
+          <a
+            class="underline"
+            href="https://acidcamp.bandcamp.com/album/prednisone"
+            >Buy Now</a
+          >
+        </div>
+      </div>
+      <div class="flex-item">
+        <div class="cover">
+          <a
             href="https://acidcamp.bandcamp.com/album/lets-start-our-own-thing"
             target="_blank"
             ><img loading="lazy" src="~/assets/images/acr011.jpg"
@@ -38,7 +57,7 @@
           Dar Embarks<br />
           Let's Start Our Own Thing<br />
           <a
-            class="preorder underline"
+            class="underline"
             href="https://acidcamp.bandcamp.com/album/lets-start-our-own-thing"
             >Buy Now</a
           >
@@ -56,7 +75,7 @@
           ACR010<br />
           Acid Camp: 10 Year Anniverssary<br />
           <a
-            class="preorder underline"
+            class="underline"
             href="https://acidcamp.bandcamp.com/album/acid-camp-10-year-anniversary"
             >Buy Now</a
           >
@@ -75,7 +94,7 @@
           Matt Parent<br />
           American Dream<br />
           <a
-            class="preorder underline"
+            class="underline"
             href="https://acidcamp.bandcamp.com/album/american-dream"
             target="_blank"
             >Buy Now</a
@@ -95,7 +114,7 @@
           Otodojo<br />
           A Sound Place<br />
           <a
-            class="preorder underline"
+            class="underline"
             href="https://acidcamp.bandcamp.com/album/a-sound-place"
             target="_blank"
             >Buy Now</a
@@ -115,7 +134,7 @@
           Deep Dark Blue<br />
           When We Get Together<br />
           <a
-            class="preorder underline"
+            class="underline"
             href="https://acidcamp.bandcamp.com/album/when-we-get-together"
             target="_blank"
             >Buy Now</a
@@ -133,7 +152,7 @@
           Shingo Suwa<br />
           MDF<br />
           <a
-            class="preorder underline"
+            class="underline"
             href="https://acidcamp.bandcamp.com/album/mdf"
             target="_blank"
             >Buy Now</a
@@ -153,7 +172,7 @@
           Acid Camp All Stars<br />
           Volume 2<br />
           <a
-            class="preorder underline"
+            class="underline"
             href="https://acidcamp.bandcamp.com/album/acid-camp-all-stars-vol-2"
             target="_blank"
             >Buy Now</a
@@ -173,7 +192,7 @@
           Acid Camp All Stars<br />
           Volume 1<br />
           <a
-            class="preorder underline"
+            class="underline"
             href="https://acidcamp.bandcamp.com/album/acid-camp-all-stars-vol-1"
             target="_blank"
             >Buy Now</a
@@ -193,7 +212,7 @@
           Jasen Loveland<br />
           My Medicine<br />
           <a
-            class="preorder underline"
+            class="underline"
             href="https://acidcamp.bandcamp.com/album/my-medicine"
             target="_blank"
             >Buy Now</a
@@ -213,7 +232,7 @@
           John Tejada & Justin Maxwell<br />
           I've Got Acid (On My Brain)<br />
           <a
-            class="preorder underline"
+            class="underline"
             href="https://acidcamp.bandcamp.com/album/ive-got-acid-on-my-brain"
             target="_blank"
             >Buy Now</a
@@ -233,7 +252,7 @@
           Natan H<br />
           Atmosphere (in 5)<br />
           <a
-            class="preorder underline"
+            class="underline"
             href="https://acidcamp.bandcamp.com/album/atmosphere-in-5"
             target="_blank"
             >Buy Now</a
@@ -251,7 +270,7 @@
           Simic<br />
           Corot-7b<br />
           <a
-            class="preorder underline"
+            class="underline"
             href="https://acidcamp.bandcamp.com/album/corot-7b"
             target="_blank"
             >Buy Now</a
@@ -278,7 +297,7 @@
           Father Dukes, Jake Muir, Keenar, Max Ellington, Ms. Ed, NAYGOD, One
           Child Policy, Sevyn, Tovar<br />
           <a
-            class="preorder underline"
+            class="underline"
             href="https://partiful.com/e/kEBfHxHL2PxtuOq5WwO7"
             target="_blank"
             >TICKETS</a
