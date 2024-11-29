@@ -113,7 +113,7 @@
         <div class="name">
           ACR007<br />
           Deep Dark Blue<br />
-          MDF<br />
+          When We Get Together<br />
           <a
             class="preorder underline"
             href="https://acidcamp.bandcamp.com/album/when-we-get-together"
