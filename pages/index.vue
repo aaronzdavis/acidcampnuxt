@@ -28,6 +28,20 @@
       <div class="flex-item">
         <div class="cover">
           <a
+            href="https://acidcamp.bandcamp.com/album/giving-chase"
+            target="_blank"
+            ><img loading="lazy" src="~/assets/images/acr013.jpg"
+          /></a>
+        </div>
+        <div class="name">
+          ACR013<br />
+          Scotia<br />
+          Giving Chase<br />
+        </div>
+      </div>
+      <div class="flex-item">
+        <div class="cover">
+          <a
             href="https://acidcamp.bandcamp.com/album/prednisone"
             target="_blank"
             ><img loading="lazy" src="~/assets/images/acr012.jpg"
@@ -37,11 +51,6 @@
           ACR012<br />
           Endash<br />
           Prednisone<br />
-          <a
-            class="underline"
-            href="https://acidcamp.bandcamp.com/album/prednisone"
-            >Buy Now</a
-          >
         </div>
       </div>
       <div class="flex-item">
@@ -56,11 +65,6 @@
           ACR011<br />
           Dar Embarks<br />
           Let's Start Our Own Thing<br />
-          <a
-            class="underline"
-            href="https://acidcamp.bandcamp.com/album/lets-start-our-own-thing"
-            >Buy Now</a
-          >
         </div>
       </div>
       <div class="flex-item">
@@ -73,12 +77,8 @@
         </div>
         <div class="name">
           ACR010<br />
-          Acid Camp: 10 Year Anniverssary<br />
-          <a
-            class="underline"
-            href="https://acidcamp.bandcamp.com/album/acid-camp-10-year-anniversary"
-            >Buy Now</a
-          >
+          Acid Camp<br />
+          10 Year Anniverssary<br />
         </div>
       </div>
       <div class="flex-item">
@@ -93,12 +93,6 @@
           ACR009<br />
           Matt Parent<br />
           American Dream<br />
-          <a
-            class="underline"
-            href="https://acidcamp.bandcamp.com/album/american-dream"
-            target="_blank"
-            >Buy Now</a
-          >
         </div>
       </div>
       <div class="flex-item">
@@ -113,12 +107,6 @@
           ACR008<br />
           Otodojo<br />
           A Sound Place<br />
-          <a
-            class="underline"
-            href="https://acidcamp.bandcamp.com/album/a-sound-place"
-            target="_blank"
-            >Buy Now</a
-          >
         </div>
       </div>
       <div class="flex-item">
@@ -133,12 +121,6 @@
           ACR007<br />
           Deep Dark Blue<br />
           When We Get Together<br />
-          <a
-            class="underline"
-            href="https://acidcamp.bandcamp.com/album/when-we-get-together"
-            target="_blank"
-            >Buy Now</a
-          >
         </div>
       </div>
       <div class="flex-item">
@@ -151,12 +133,6 @@
           ACR006<br />
           Shingo Suwa<br />
           MDF<br />
-          <a
-            class="underline"
-            href="https://acidcamp.bandcamp.com/album/mdf"
-            target="_blank"
-            >Buy Now</a
-          >
         </div>
       </div>
       <div class="flex-item">
@@ -171,12 +147,6 @@
           ACR005 1.5<br />
           Acid Camp All Stars<br />
           Volume 2<br />
-          <a
-            class="underline"
-            href="https://acidcamp.bandcamp.com/album/acid-camp-all-stars-vol-2"
-            target="_blank"
-            >Buy Now</a
-          >
         </div>
       </div>
       <div class="flex-item">
@@ -191,12 +161,6 @@
           ACR005 1.0<br />
           Acid Camp All Stars<br />
           Volume 1<br />
-          <a
-            class="underline"
-            href="https://acidcamp.bandcamp.com/album/acid-camp-all-stars-vol-1"
-            target="_blank"
-            >Buy Now</a
-          >
         </div>
       </div>
       <div class="flex-item">
@@ -211,12 +175,6 @@
           ACR004<br />
           Jasen Loveland<br />
           My Medicine<br />
-          <a
-            class="underline"
-            href="https://acidcamp.bandcamp.com/album/my-medicine"
-            target="_blank"
-            >Buy Now</a
-          >
         </div>
       </div>
       <div class="flex-item">
@@ -231,12 +189,6 @@
           ACR003<br />
           John Tejada & Justin Maxwell<br />
           I've Got Acid (On My Brain)<br />
-          <a
-            class="underline"
-            href="https://acidcamp.bandcamp.com/album/ive-got-acid-on-my-brain"
-            target="_blank"
-            >Buy Now</a
-          >
         </div>
       </div>
       <div class="flex-item">
@@ -251,12 +203,6 @@
           ACR002<br />
           Natan H<br />
           Atmosphere (in 5)<br />
-          <a
-            class="underline"
-            href="https://acidcamp.bandcamp.com/album/atmosphere-in-5"
-            target="_blank"
-            >Buy Now</a
-          >
         </div>
       </div>
       <div class="flex-item">
@@ -269,12 +215,6 @@
           ACR001<br />
           Simic<br />
           Corot-7b<br />
-          <a
-            class="underline"
-            href="https://acidcamp.bandcamp.com/album/corot-7b"
-            target="_blank"
-            >Buy Now</a
-          >
         </div>
       </div>
     </div>
@@ -296,12 +236,6 @@
           Aaron Davis, Abby Echiverri, agraybé, angekaut, Cha Cha, Clay Wilson,
           Father Dukes, Jake Muir, Keenar, Max Ellington, Ms. Ed, NAYGOD, One
           Child Policy, Sevyn, Tovar<br />
-          <a
-            class="underline"
-            href="https://partiful.com/e/kEBfHxHL2PxtuOq5WwO7"
-            target="_blank"
-            >TICKETS</a
-          >
         </div>
       </div>
       <div class="flex-item">
