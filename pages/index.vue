@@ -28,6 +28,20 @@
       <div class="flex-item">
         <div class="cover">
           <a
+            href="https://deepdarkblue.bandcamp.com/album/reincarnation?label=3972549925&tab=music"
+            target="_blank"
+            ><img loading="lazy" src="~/assets/images/acr014.jpg"
+          /></a>
+        </div>
+        <div class="name">
+          ACR014<br />
+          Deep Dark Blue<br />
+          Reincarnation<br />
+        </div>
+      </div>
+      <div class="flex-item">
+        <div class="cover">
+          <a
             href="https://acidcamp.bandcamp.com/album/giving-chase"
             target="_blank"
             ><img loading="lazy" src="~/assets/images/acr013.jpg"
