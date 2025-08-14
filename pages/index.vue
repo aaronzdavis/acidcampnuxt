@@ -414,16 +414,6 @@
       </div>
       <div class="flex-item">
         <div class="cover">
-          <img loading="lazy" src="~assets/images/ac-xix_sq.jpg" />
-        </div>
-        <div class="name">
-          Feb 9 + 11 2017<br />
-          Ateq, DJ Dustin, Edward, Kettenkarussell, Konstantin, Leafar Legov,
-          Vril
-        </div>
-      </div>
-      <div class="flex-item">
-        <div class="cover">
           <img loading="lazy" src="~assets/images/ac-xviii_sq.jpg" />
         </div>
         <div class="name">
