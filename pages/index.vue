@@ -28,6 +28,20 @@
       <div class="flex-item">
         <div class="cover">
           <a
+            href="https://otodojo.bandcamp.com/album/recursivity"
+            target="_blank"
+            ><img loading="lazy" src="~/assets/images/acr015.png"
+          /></a>
+        </div>
+        <div class="name">
+          ACR015<br />
+          Otodojo<br />
+          Recursivity<br />
+        </div>
+      </div>
+      <div class="flex-item">
+        <div class="cover">
+          <a
             href="https://deepdarkblue.bandcamp.com/album/reincarnation?label=3972549925&tab=music"
             target="_blank"
             ><img loading="lazy" src="~/assets/images/acr014.jpg"
