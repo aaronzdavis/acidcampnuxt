@@ -28,6 +28,20 @@
       <div class="flex-item">
         <div class="cover">
           <a
+            href="https://acidcamp.bandcamp.com/album/aurora"
+            target="_blank"
+            ><img loading="lazy" src="~/assets/images/acr016.jpg"
+          /></a>
+        </div>
+        <div class="name">
+          ACR016<br />
+          Jason ddb<br />
+          Aurora<br />
+        </div>
+      </div>
+      <div class="flex-item">
+        <div class="cover">
+          <a
             href="https://otodojo.bandcamp.com/album/recursivity"
             target="_blank"
             ><img loading="lazy" src="~/assets/images/acr015.png"
