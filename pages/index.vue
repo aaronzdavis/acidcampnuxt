@@ -3,9 +3,9 @@
     <div class="header">
       <h1>Acid Camp</h1>
       <ul>
-        <li>
+        <!-- <li>
           <a target="_blank" href="https://shop.acid.camp/">Merch & Shirts</a>
-        </li>
+        </li> -->
         <li>
           <a target="_blank" href="https://acidcamp.bandcamp.com/">Bandcamp</a>
         </li>
@@ -25,6 +25,20 @@
     <br />
     <div class="heading">Records</div>
     <div class="flex-container">
+      <div class="flex-item">
+        <div class="cover">
+          <a
+            href="https://shingosuwa.bandcamp.com/album/seishin"
+            target="_blank"
+            ><img loading="lazy" src="~/assets/images/acr017.jpg"
+          /></a>
+        </div>
+        <div class="name">
+          ACR017<br />
+          Shingo Suwa<br />
+          Seishin<br />
+        </div>
+      </div>
       <div class="flex-item">
         <div class="cover">
           <a
