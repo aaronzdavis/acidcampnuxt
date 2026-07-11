@@ -28,6 +28,32 @@
       <div class="flex-item">
         <div class="cover">
           <a
+            href="https://narkbynark.bandcamp.com/album/queer-acid-energy-ii"
+            target="_blank"
+            ><img loading="lazy" src="~/assets/images/acr020.jpg"
+          /></a>
+        </div>
+        <div class="name">
+          ACR020<br />
+          Nark<br />
+          Queer Acid Energy II<br />
+        </div>
+      </div>
+      <div class="flex-item">
+        <div class="cover">
+          <a href="https://acidcamp.bandcamp.com/album/contours" target="_blank"
+            ><img loading="lazy" src="~/assets/images/acr019.jpg"
+          /></a>
+        </div>
+        <div class="name">
+          ACR019<br />
+          Abby Echiverri & Clay Wilson<br />
+          Contours<br />
+        </div>
+      </div>
+      <div class="flex-item">
+        <div class="cover">
+          <a
             href="https://shingosuwa.bandcamp.com/album/seishin"
             target="_blank"
             ><img loading="lazy" src="~/assets/images/acr017.jpg"
@@ -41,9 +67,7 @@
       </div>
       <div class="flex-item">
         <div class="cover">
-          <a
-            href="https://acidcamp.bandcamp.com/album/aurora"
-            target="_blank"
+          <a href="https://acidcamp.bandcamp.com/album/aurora" target="_blank"
             ><img loading="lazy" src="~/assets/images/acr016.jpg"
           /></a>
         </div>
